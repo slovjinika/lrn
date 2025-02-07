@@ -129,15 +129,15 @@ def main():
 
         question_translation = word['ua'] if language == 'en' else word['en']  # What language to ask in
         options = generate_options(word, words, language)
-        #print(f"\nTranslation: {question_translation}")
-        print(f"{question_translation}")
+        print(f"\nTranslation: {question_translation}")
+        #print(f"{question_translation}")
         #print("Choose the correct option or enter the word:")
         for i, option in enumerate(options):
             print(f"{i+1}. {option}")
 
         while True:
-            #user_input = input("Your answer: ").lower()
-            user_input = input("> ").lower()
+            user_input = input("Your answer: ").lower()
+            #user_input = input("> ").lower()
             correct_answer_en = word['en'].lower()  # Correct answer (eng) in lowercase
             correct_answer_ua = word['ua'].lower()  # Correct answer (ukr) in lowercase
 
