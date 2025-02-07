@@ -1,0 +1,602 @@
+[
+    {
+        
+        "en": "I use a computer.",
+        "ua": "Я використовую комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You use a computer.",
+        "ua": "Ти використовуєш комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He uses a computer.",
+        "ua": "Він використовує комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She uses a computer.",
+        "ua": "Вона використовує комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It uses a computer.",
+        "ua": "Воно використовує комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We use a computer.",
+        "ua": "Ми використовуємо комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They use a computer.",
+        "ua": "Вони використовують комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I am learning to code.",
+        "ua": "Я вчуся програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You are learning to code.",
+        "ua": "Ти вчишся програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He is learning to code.",
+        "ua": "Він вчиться програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She is learning to code.",
+        "ua": "Вона вчиться програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It is learning to code.",
+        "ua": "Воно вчиться програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We are learning to code.",
+        "ua": "Ми вчимося програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They are learning to code.",
+        "ua": "Вони вчаться програмувати.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I learned to code yesterday.",
+        "ua": "Я вчора навчився програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "You learned to code yesterday.",
+        "ua": "Ти вчора навчився програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "He learned to code yesterday.",
+        "ua": "Він вчора навчився програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "She learned to code yesterday.",
+        "ua": "Вона вчора навчилась програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "It learned to code yesterday.",
+        "ua": "Воно навчилось програмувати вчора.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "We learned to code yesterday.",
+        "ua": "Ми вчора навчилися програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "They learned to code yesterday.",
+        "ua": "Вони вчора навчилися програмувати.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "I will learn to code tomorrow.",
+        "ua": "Я завтра навчусь програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "You will learn to code tomorrow.",
+        "ua": "Ти завтра навчишся програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "He will learn to code tomorrow.",
+        "ua": "Він завтра навчиться програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "She will learn to code tomorrow.",
+        "ua": "Вона завтра навчиться програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "It will learn to code tomorrow.",
+        "ua": "Воно завтра навчиться програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "We will learn to code tomorrow.",
+        "ua": "Ми завтра навчимося програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "They will learn to code tomorrow.",
+        "ua": "Вони завтра навчаться програмувати.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "I like Linux.",
+        "ua": "Мені подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You like Linux.",
+        "ua": "Тобі подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He likes Linux.",
+        "ua": "Йому подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She likes Linux.",
+        "ua": "Їй подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It likes Linux.",
+        "ua": "Йому подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We like Linux.",
+        "ua": "Нам подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They like Linux.",
+        "ua": "Їм подобається Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I am using Linux now.",
+        "ua": "Я зараз використовую Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You are using Linux now.",
+        "ua": "Ти зараз використовуєш Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He is using Linux now.",
+        "ua": "Він зараз використовує Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She is using Linux now.",
+        "ua": "Вона зараз використовує Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It is using Linux now.",
+        "ua": "Воно зараз використовує Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We are using Linux now.",
+        "ua": "Ми зараз використовуємо Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They are using Linux now.",
+        "ua": "Вони зараз використовують Linux.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I used Linux yesterday.",
+        "ua": "Я вчора використовував Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "You used Linux yesterday.",
+        "ua": "Ти вчора використовував Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "He used Linux yesterday.",
+        "ua": "Він вчора використовував Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "She used Linux yesterday.",
+        "ua": "Вона вчора використовувала Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "It used Linux yesterday.",
+        "ua": "Воно вчора використовувало Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "We used Linux yesterday.",
+        "ua": "Ми вчора використовували Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "They used Linux yesterday.",
+        "ua": "Вони вчора використовували Linux.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "I will use Linux tomorrow.",
+        "ua": "Я завтра буду використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "You will use Linux tomorrow.",
+        "ua": "Ти завтра будеш використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "He will use Linux tomorrow.",
+        "ua": "Він завтра буде використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "She will use Linux tomorrow.",
+        "ua": "Вона завтра буде використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "It will use Linux tomorrow.",
+        "ua": "Воно завтра буде використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "We will use Linux tomorrow.",
+        "ua": "Ми завтра будемо використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "They will use Linux tomorrow.",
+        "ua": "Вони завтра будуть використовувати Linux.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "I have a computer.",
+        "ua": "У мене є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You have a computer.",
+        "ua": "У тебе є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He has a computer.",
+        "ua": "У нього є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She has a computer.",
+        "ua": "У неї є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It has a computer.",
+        "ua": "Воно має комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We have a computer.",
+        "ua": "У нас є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They have a computer.",
+        "ua": "У них є комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I want to learn Python.",
+        "ua": "Я хочу вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You want to learn Python.",
+        "ua": "Ти хочеш вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He wants to learn Python.",
+        "ua": "Він хоче вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She wants to learn Python.",
+        "ua": "Вона хоче вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It wants to learn Python.",
+        "ua": "Воно хоче вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We want to learn Python.",
+        "ua": "Ми хочемо вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They want to learn Python.",
+        "ua": "Вони хочуть вивчити Python.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I am writing code.",
+        "ua": "Я пишу код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "You are writing code.",
+        "ua": "Ти пишеш код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "He is writing code.",
+        "ua": "Він пише код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "She is writing code.",
+        "ua": "Вона пише код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "It is writing code.",
+        "ua": "Воно пише код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "We are writing code.",
+        "ua": "Ми пишемо код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "They are writing code.",
+        "ua": "Вони пишуть код.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I wrote code yesterday.",
+        "ua": "Я вчора писав код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "You wrote code yesterday.",
+        "ua": "Ти вчора писав код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "He wrote code yesterday.",
+        "ua": "Він вчора писав код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "She wrote code yesterday.",
+        "ua": "Вона вчора писала код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "It wrote code yesterday.",
+        "ua": "Воно вчора писало код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "We wrote code yesterday.",
+        "ua": "Ми вчора писали код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "They wrote code yesterday.",
+        "ua": "Вони вчора писали код.",
+        "times": "Past"
+    },
+    {
+        
+        "en": "I will write code tomorrow.",
+        "ua": "Я завтра буду писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "You will write code tomorrow.",
+        "ua": "Ти завтра будеш писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "He will write code tomorrow.",
+        "ua": "Він завтра буде писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "She will write code tomorrow.",
+        "ua": "Вона завтра буде писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "It will write code tomorrow.",
+        "ua": "Воно завтра буде писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "We will write code tomorrow.",
+        "ua": "Ми завтра будемо писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "They will write code tomorrow.",
+        "ua": "Вони завтра будуть писати код.",
+        "times": "Future"
+    },
+    {
+        
+        "en": "The program works.",
+        "ua": "Програма працює.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I need help.",
+        "ua": "Мені потрібна допомога.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "The internet is slow.",
+        "ua": "Інтернет повільний.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I like programming.",
+        "ua": "Мені подобається програмування.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "This is a computer.",
+        "ua": "Це комп'ютер.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I see a screen.",
+        "ua": "Я бачу екран.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I want a new mouse.",
+        "ua": "Я хочу нову мишку.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "This key is broken.",
+        "ua": "Ця клавіша зламана.",
+        "times": "Present"
+    },
+    {
+        
+        "en": "I have a question.",
+        "ua": "У мене є питання.",
+        "times": "Present"
+    }
+]
