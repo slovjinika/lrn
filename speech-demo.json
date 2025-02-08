@@ -1,0 +1,56 @@
+[
+  {
+    "en": "I love",
+    "ua": "Я люблю",
+    "times": "Present",
+    "type": "Affirmation"
+  },
+  {
+    "en": "I loved",
+    "ua": "Я любив",
+    "times": "Past",
+    "type": "Affirmation"
+  },
+  {
+    "en": "I will love",
+    "ua": "Я буду любити",
+    "times": "Future",
+    "type": "Affirmation"
+  },
+  {
+    "en": "Do I love?",
+    "ua": "Чи я люблю?",
+    "times": "Present",
+    "type": "Question"
+  },
+  {
+    "en": "Did I love?",
+    "ua": "Чи я любив?",
+    "times": "Past",
+    "type": "Question"
+  },
+  {
+    "en": "Will I love?",
+    "ua": "Чи я буду любити?",
+    "times": "Future",
+    "type": "Question"
+  },
+  {
+    "en": "I don't love",
+    "ua": "Я не люблю",
+    "times": "Present",
+    "type": "Negation"
+  },
+  {
+    "en": "I didn't love",
+    "ua": "Я не любив",
+    "times": "Past",
+    "type": "Negation"
+  },
+  {
+    "en": "I will not love",
+    "ua": "Я не буду любити",
+    "times": "Future",
+    "type": "Negation"
+  }
+]
