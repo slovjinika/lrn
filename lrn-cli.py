@@ -9,7 +9,7 @@ import argparse
 GREEN = '\033[92m'
 RESET = '\033[0m'
 
-def load_words(file_path="data.json"):
+def load_words(file_path="us-ua_3000.json"):
     """Loads words from a JSON file."""
     try:
         with open(file_path, 'r', encoding='utf-8') as f:
@@ -105,7 +105,7 @@ def main():
     group.add_argument("--lang-ua", action="store_true", help="Display Ukrainian words.")
     group.add_argument("--lang-en", action="store_true", help="Display English words.")
     group.add_argument("--lang-ru", action="store_true", help="Display Russian words.")
-    parser.add_argument("--data", default="data.json", help="Path to the JSON file with data.")
+    parser.add_argument("--data", default="us-ua_3000.json", help="Path to the JSON file with data.")
     parser.add_argument("--target-lang", default="ua", help="The language being learned (ua, ru).")
 
     args = parser.parse_args()
